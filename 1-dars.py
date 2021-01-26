@@ -31,4 +31,5 @@
 # c='Birinchi son:',b;
 # b='Ikkinchi son:',a;
 # print(c,"\n",b)
+#nimadir text yozdik
 
